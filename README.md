@@ -104,7 +104,31 @@ Nesta página é possível encontrar informações e materiais abordados nas aul
 
 - [Live - Séries Temporais - Bitcoin](https://www.youtube.com/watch?v=xur237Ox3N0)
 
-### Aula 12/2019 - 04/mai- Lambda3
+### Aula 12/2019 - 04/junho- Lambda3
 
 - Parte 1 - [Machine Learning com Azure](https://www.youtube.com/watch?v=d0vF0XdQeQU)
 - Parte 2 - [Machine Learning com Azure](https://www.youtube.com/watch?v=iQsnY_hK5hc)
+
+### Aula 13/2019 - 18/junho- Lambda3
+
+- Parte 1 - [Introdução a Redes Neurais e Perceptron](https://www.youtube.com/watch?v=OqXnlP5SpkI)
+- Parte 2 - [Introdução a Redes Neurais e Perceptron](https://www.youtube.com/watch?v=TOcBk3BzBXU)
+- [Acesse aqui os Materiais](https://github.com/AhirtonLopes/School_of_AI_13)
+
+### Aula 14/2019 - 02/julho- Lambda3
+
+- Parte 1 - [Redes Perceptron Multicamadas - Diego Duarte Menescal](https://www.youtube.com/watch?v=ypA_PXphk10)
+	- Material:
+  		- [Exploring MNIST And Deep Neural Networks](https://github.com/SchoolOfAISaoPaulo/aulas/blob/master/14_aula/ExploringMNIST.ipynb)
+  		- [Apresentação Perceptron Múltiplas camadas - MLP](https://github.com/SchoolOfAISaoPaulo/aulas/raw/master/14_aula/School_Of_AI_MLP.pptx)
+- Parte 2 - [Radial Basis Function e Rede RBF](https://www.youtube.com/watch?v=dK_hj5Q-bSY)
+
+### Aula 15/2019 - 16/julho- Lambda3
+
+- Parte 1 - [Backpropagation e Adaline](https://www.youtube.com/watch?v=fcYh7wKTTP4)
+- Parte 2 - [Backpropagation e Adaline](https://www.youtube.com/watch?v=iwXpToOsewU)
+
+### Aula 16/2019 - 30/julho - Lambda3
+
+- Parte 1 - [DeepLearning - AutoEncoder - Prof. Victor Venites](https://www.youtube.com/watch?v=ep_j7pvFg9c)
+- Parte 2 - [DeepLearning - AutoEncoder - Prof. Victor Venites](https://www.youtube.com/watch?v=v-7vLPR2Azc)
